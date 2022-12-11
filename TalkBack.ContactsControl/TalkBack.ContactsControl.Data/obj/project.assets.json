@@ -6548,11 +6548,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\inbar\\OneDrive\\מסמכים\\הסבה\\מכללת סלע\\Developing SOA project\\TalkBack2\\TalkBack.ContactsControl\\TalkBack.ContactsControl.Data\\TalkBack.ContactsControl.Data.csproj",
+      "projectUniqueName": "C:\\Git Projects\\TalkBack\\TalkBack.ContactsControl\\TalkBack.ContactsControl.Data\\TalkBack.ContactsControl.Data.csproj",
       "projectName": "TalkBack.ContactsControl.Data",
-      "projectPath": "C:\\Users\\inbar\\OneDrive\\מסמכים\\הסבה\\מכללת סלע\\Developing SOA project\\TalkBack2\\TalkBack.ContactsControl\\TalkBack.ContactsControl.Data\\TalkBack.ContactsControl.Data.csproj",
+      "projectPath": "C:\\Git Projects\\TalkBack\\TalkBack.ContactsControl\\TalkBack.ContactsControl.Data\\TalkBack.ContactsControl.Data.csproj",
       "packagesPath": "C:\\Users\\inbar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\inbar\\OneDrive\\מסמכים\\הסבה\\מכללת סלע\\Developing SOA project\\TalkBack2\\TalkBack.ContactsControl\\TalkBack.ContactsControl.Data\\obj\\",
+      "outputPath": "C:\\Git Projects\\TalkBack\\TalkBack.ContactsControl\\TalkBack.ContactsControl.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6573,8 +6573,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\inbar\\OneDrive\\מסמכים\\הסבה\\מכללת סלע\\Developing SOA project\\TalkBack2\\TalkBack.ContactsControl\\DM\\DM.csproj": {
-              "projectPath": "C:\\Users\\inbar\\OneDrive\\מסמכים\\הסבה\\מכללת סלע\\Developing SOA project\\TalkBack2\\TalkBack.ContactsControl\\DM\\DM.csproj"
+            "C:\\Git Projects\\TalkBack\\TalkBack.ContactsControl\\DM\\DM.csproj": {
+              "projectPath": "C:\\Git Projects\\TalkBack\\TalkBack.ContactsControl\\DM\\DM.csproj"
             }
           }
         }

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\inbar\\OneDrive\\מסמכים\\הסבה\\מכללת סלע\\Developing SOA project\\TalkBack2\\TalkBack.ContactsControl\\DM\\DM.csproj",
+      "projectUniqueName": "C:\\Git Projects\\TalkBack\\TalkBack.ContactsControl\\DM\\DM.csproj",
       "projectName": "DM",
-      "projectPath": "C:\\Users\\inbar\\OneDrive\\מסמכים\\הסבה\\מכללת סלע\\Developing SOA project\\TalkBack2\\TalkBack.ContactsControl\\DM\\DM.csproj",
+      "projectPath": "C:\\Git Projects\\TalkBack\\TalkBack.ContactsControl\\DM\\DM.csproj",
       "packagesPath": "C:\\Users\\inbar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\inbar\\OneDrive\\מסמכים\\הסבה\\מכללת סלע\\Developing SOA project\\TalkBack2\\TalkBack.ContactsControl\\DM\\obj\\",
+      "outputPath": "C:\\Git Projects\\TalkBack\\TalkBack.ContactsControl\\DM\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

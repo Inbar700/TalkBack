@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IKJ79fP1zYAUvQ//+bnwbFscEH2wJnFxOHC8DLAIH7mNGq+0P4g9bmOeDmdhMU7FNnAFcJS9KUIKKy02fkaMBw==",
+  "dgSpecHash": "UZiHkKpoWkIfztVucqnxxYWgfAXKnoeKLo5SXbWLWptatSstrWVEFydNltD2hd7DObDXBs0wQQbwoWTWq9nGZQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\inbar\\OneDrive\\מסמכים\\הסבה\\מכללת סלע\\Developing SOA project\\TalkBack2\\TalkBack.ContactsControl\\DM\\DM.csproj",
+  "projectFilePath": "C:\\Git Projects\\TalkBack\\TalkBack.ContactsControl\\DM\\DM.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

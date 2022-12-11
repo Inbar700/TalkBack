@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TU9iSnqt0qf2mhu/9wzk582CmRzrb13J47YcKN16nOhlj+7DW5qJgsLgIn7p4PrfgDgIiuD7i2UvTLxnbqcXyA==",
+  "dgSpecHash": "upwSzcW9PmrkgJgCkOteKWCqTAtRnyIdR2JmNooEHQYGTZCoi6hv8rorYmC3Ph/aUllT0Kxl374TRqr8wMKZ2Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\inbar\\OneDrive\\מסמכים\\הסבה\\מכללת סלע\\Developing SOA project\\TalkBack2\\TalkBack.ContactsControl\\TalkBack.ContactsControl\\TalkBack.ContactsControl.csproj",
+  "projectFilePath": "C:\\Git Projects\\TalkBack\\TalkBack.ContactsControl\\TalkBack.ContactsControl\\TalkBack.ContactsControl.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\inbar\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\inbar\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.9\\microsoft.aspnet.webapi.client.5.2.9.nupkg.sha512",
