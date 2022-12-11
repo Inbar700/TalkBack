@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c78d0f19-ce0e-4c56-bd73-5c4f387996a0": {
+      "ProjectGuid": "c78d0f19-ce0e-4c56-bd73-5c4f387996a0",
+      "DisplayName": "TalkBack.ContactsControl",
+      "ColorIndex": 0
+    },
+    "35650f4d-449f-44bb-930f-d5a6564c87ef": {
+      "ProjectGuid": "35650f4d-449f-44bb-930f-d5a6564c87ef",
+      "DisplayName": "TalkBack.ContactsControl.Data",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "e2a424be-1435-40d9-87fb-a8ed1940316f": {
+      "ProjectGuid": "e2a424be-1435-40d9-87fb-a8ed1940316f",
+      "DisplayName": "DM",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
