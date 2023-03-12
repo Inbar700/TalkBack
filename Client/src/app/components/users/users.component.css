@@ -1,0 +1,58 @@
+.container{
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 20px;
+}
+
+input{
+    padding: 8px 23px;
+    font-size: 14px;
+}
+
+button{
+    background-color: #5fb7eb;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+button:disabled{
+    opacity: 0.6;
+    cursor: not-allowed;
+}
+
+button:hover{
+    background-color: #4897c5;
+}
+
+h1 {
+    font-family: Segoe UI;
+    color: rgb(126, 101, 236);
+    font-size: 39px;
+}
+
+h2 {
+    font-family: Segoe UI;
+    color: rgb(59, 34, 172);
+}
+
+p {
+    font-family: Segoe UI;
+}
+
+.clientId{
+    font-family: Segoe UI;
+    padding-bottom: 10px;
+}
+
+.users-list{
+    font-family: Segoe UI;
+}
+

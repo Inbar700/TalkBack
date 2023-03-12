@@ -1,0 +1,71 @@
+:host {
+    display: block;
+    background-color: lightblue;
+    padding: 20px;
+   }
+
+.content-main-warpper{
+    flex-direction: column;
+    align-items:center;
+    justify-content: center;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    width: 48%;
+    padding: 10px;
+}
+
+.main-heading{
+    text-align: center;
+    color: rgb(126, 101, 236);
+    font-family: Segoe UI;
+    font-size: 39px;
+}
+
+h1{
+    margin-bottom: 10px;
+}
+
+h2{
+    color: rgb(5, 5, 155);
+    font-size: 39px;
+    font-family: Ink Free;
+}
+
+.content-main{
+    text-align: center;
+    justify-content: center; 
+}
+
+ul.ul-design{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+ul li a {
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+    font-family: 'Fira Sans';
+    letter-spacing: .2rem;
+    font-size: 1.5rem;
+    display: block;
+    padding: 1rem 2rem;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    background-color: #f0f5f8;
+  }
+
+  ul li a:hover {
+    color: blue;
+    background-color: #d9e7f0;
+  }
+
+  .loggedIn{
+    color: blue;
+  }
+
+  p{
+    font-family: Segoe UI;
+  }

@@ -1,0 +1,16 @@
+<div class="content-form-warpper">
+    <form #loginForm="ngForm" (ngSubmit)="login(loginForm)" class="content-form">
+      <div class="form-signin-heading">Login</div>
+        <div *ngIf="invalidLogin" class="alert alert-danger">Invalid username or password.</div>
+        <br/>
+        <label for="username" >User name</label>
+        <input  type="text"  id="username" name="username" [(ngModel)]="credentials.username" 
+          placeholder="User Name" required>
+        <br/>
+        <label for="password" >Password</label>
+        <input type="password" id="password" name="password" [(ngModel)]="credentials.password" 
+           placeholder="Password" required>
+        <br/>
+        <button class="btn-login" type="submit" [disabled]="!loginForm.valid">Log in</button>
+    </form>
+  </div>

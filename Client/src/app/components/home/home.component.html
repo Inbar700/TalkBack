@@ -1,0 +1,18 @@
+<div class="content-main-warpper">
+    <div class="main-heading">
+        <h1>TalkBack</h1>
+        <h2>Welcome to TalkBack app</h2>
+    </div>
+    <div class="loggedIn" *ngIf="isUserAuthenticated()" >
+        <p>Hello {{userName}}! What would you like to do?</p>
+    </div>
+    <br>
+    <div class="content-main">
+        <ul class="ul-design">
+            <li *ngIf="!isUserAuthenticated()"><a routerLink="/login">Login</a></li>
+            <li *ngIf="!isUserAuthenticated()"><a routerLink="/register">Register</a></li>
+            <li *ngIf="isUserAuthenticated()"><a routerLink="/users">Chat</a></li>
+            <li *ngIf="isUserAuthenticated()"><a class="logout" (click)="logOut()">Log out</a></li>
+        </ul>
+    </div>
+</div>
