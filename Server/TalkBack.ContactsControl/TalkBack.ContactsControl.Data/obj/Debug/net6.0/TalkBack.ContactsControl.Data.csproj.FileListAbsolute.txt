@@ -12,6 +12,6 @@ C:\Users\inbar\OneDrive\מסמכים\הסבה\מכללת סלע\Developing SOA p
 C:\Users\inbar\OneDrive\מסמכים\הסבה\מכללת סלע\Developing SOA project\TalkBack2\TalkBack.ContactsControl\TalkBack.ContactsControl.Data\obj\Debug\net6.0\ref\TalkBack.ContactsControl.Data.dll
 C:\Users\inbar\OneDrive\מסמכים\הסבה\מכללת סלע\Developing SOA project\TalkBack2\TalkBack.ContactsControl\TalkBack.ContactsControl.Data\obj\Debug\net6.0\TalkBack.ContactsControl.Data.pdb
 C:\Users\inbar\OneDrive\מסמכים\הסבה\מכללת סלע\Developing SOA project\TalkBack2\TalkBack.ContactsControl\TalkBack.ContactsControl.Data\obj\Debug\net6.0\TalkBack.ContactsControl.Data.genruntimeconfig.cache
-C:\Users\inbar\OneDrive\מסמכים\הסבה\מכללת סלע\Developing SOA project\TalkBack2\TalkBack.ContactsControl\TalkBack.ContactsControl.Data\bin\Debug\net6.0\DM.dll
-C:\Users\inbar\OneDrive\מסמכים\הסבה\מכללת סלע\Developing SOA project\TalkBack2\TalkBack.ContactsControl\TalkBack.ContactsControl.Data\bin\Debug\net6.0\DM.pdb
 C:\Users\inbar\OneDrive\מסמכים\הסבה\מכללת סלע\Developing SOA project\TalkBack2\TalkBack.ContactsControl\TalkBack.ContactsControl.Data\obj\Debug\net6.0\TalkBack.ContactsControl.Data.csproj.CopyComplete
+C:\Users\inbar\OneDrive\מסמכים\הסבה\מכללת סלע\Developing SOA project\TalkBack2\TalkBack.ContactsControl\TalkBack.ContactsControl.Data\bin\Debug\net6.0\TalkBack.ContactControl.DataModel.dll
+C:\Users\inbar\OneDrive\מסמכים\הסבה\מכללת סלע\Developing SOA project\TalkBack2\TalkBack.ContactsControl\TalkBack.ContactsControl.Data\bin\Debug\net6.0\TalkBack.ContactControl.DataModel.pdb

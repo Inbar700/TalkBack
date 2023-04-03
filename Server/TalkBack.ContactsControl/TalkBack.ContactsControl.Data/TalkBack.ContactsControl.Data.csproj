@@ -22,7 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\DM\DM.csproj" />
+    <ProjectReference Include="..\DM\TalkBack.ContactControl.DataModel.csproj" />
   </ItemGroup>
 
 </Project>

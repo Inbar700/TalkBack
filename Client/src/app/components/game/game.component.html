@@ -1,1 +1,8 @@
 <h1>Welcome to Tic Tac Toe</h1>
+<table>
+    <tr *ngFor="let row of board; let i=index">
+        <td *ngFor="let cell of row; let j=index">
+            <button (click)="onCellClick(i,j)" [disabled]="cell.value !== ' '">{{cell.value}}</button>
+        </td>
+    </tr>
+</table>

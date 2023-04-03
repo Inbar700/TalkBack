@@ -67,6 +67,6 @@ C:\Users\inbar\OneDrive\מסמכים\הסבה\מכללת סלע\Developing SOA p
 C:\Users\inbar\OneDrive\מסמכים\הסבה\מכללת סלע\Developing SOA project\TalkBack2\TalkBack.ContactsControl\TalkBack.ContactsControl\bin\Debug\net6.0\System.Net.Http.Extensions.dll
 C:\Users\inbar\OneDrive\מסמכים\הסבה\מכללת סלע\Developing SOA project\TalkBack2\TalkBack.ContactsControl\TalkBack.ContactsControl\bin\Debug\net6.0\System.Net.Http.Primitives.dll
 C:\Users\inbar\OneDrive\מסמכים\הסבה\מכללת סלע\Developing SOA project\TalkBack2\TalkBack.ContactsControl\TalkBack.ContactsControl\bin\Debug\net6.0\RestSharp.dll
-C:\Users\inbar\OneDrive\מסמכים\הסבה\מכללת סלע\Developing SOA project\TalkBack2\TalkBack.ContactsControl\TalkBack.ContactsControl\bin\Debug\net6.0\DM.dll
-C:\Users\inbar\OneDrive\מסמכים\הסבה\מכללת סלע\Developing SOA project\TalkBack2\TalkBack.ContactsControl\TalkBack.ContactsControl\bin\Debug\net6.0\DM.pdb
 C:\Users\inbar\OneDrive\מסמכים\הסבה\מכללת סלע\Developing SOA project\TalkBack2\TalkBack.ContactsControl\TalkBack.ContactsControl\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\inbar\OneDrive\מסמכים\הסבה\מכללת סלע\Developing SOA project\TalkBack2\TalkBack.ContactsControl\TalkBack.ContactsControl\bin\Debug\net6.0\TalkBack.ContactControl.DataModel.dll
+C:\Users\inbar\OneDrive\מסמכים\הסבה\מכללת סלע\Developing SOA project\TalkBack2\TalkBack.ContactsControl\TalkBack.ContactsControl\bin\Debug\net6.0\TalkBack.ContactControl.DataModel.pdb

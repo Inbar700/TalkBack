@@ -24,6 +24,7 @@ builder.Services.AddDbContext<TalkBackDbContext>(options =>
 
 builder.Services.AddScoped<IContactRepository, ContactsRepository>();
 builder.Services.AddScoped<ISignalrService, SignalrService>();
+builder.Services.AddScoped<IGameService, GameService>();
 
 // Add services to the container.
 
@@ -83,5 +84,6 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.MapHub<UserHub>("/userHub");
+app.MapHub<GameHub>("/gameHub");
 
 app.Run();

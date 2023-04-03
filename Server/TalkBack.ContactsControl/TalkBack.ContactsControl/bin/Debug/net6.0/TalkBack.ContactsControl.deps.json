@@ -1219,21 +1219,21 @@
           "System.Xml.ReaderWriter": "4.3.0"
         }
       },
-      "DM/1.0.0": {
+      "TalkBack.ContactControl.DataModel/1.0.0": {
         "runtime": {
-          "DM.dll": {}
+          "TalkBack.ContactControl.DataModel.dll": {}
         }
       },
       "TalkBack.ContactsControl.Data/1.0.0": {
         "dependencies": {
-          "DM": "1.0.0",
           "Microsoft.AspNet.WebApi.Client": "5.2.9",
           "Microsoft.AspNetCore.SignalR.Core": "1.1.0",
           "Microsoft.EntityFrameworkCore": "6.0.7",
           "Microsoft.EntityFrameworkCore.Relational": "6.0.7",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.7",
           "System.Net.Http": "4.3.4",
-          "System.Net.Http.Formatting.Extension": "5.2.3"
+          "System.Net.Http.Formatting.Extension": "5.2.3",
+          "TalkBack.ContactControl.DataModel": "1.0.0"
         },
         "runtime": {
           "TalkBack.ContactsControl.Data.dll": {}
@@ -2178,7 +2178,7 @@
       "path": "system.xml.xdocument/4.3.0",
       "hashPath": "system.xml.xdocument.4.3.0.nupkg.sha512"
     },
-    "DM/1.0.0": {
+    "TalkBack.ContactControl.DataModel/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TalkBack.ContactsControl", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TalkBack.ContactsControl.Data", "TalkBack.ContactsControl.Data\TalkBack.ContactsControl.Data.csproj", "{35650F4D-449F-44BB-930F-D5A6564C87EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DM", "DM\DM.csproj", "{E2A424BE-1435-40D9-87FB-A8ED1940316F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TalkBack.ContactControl.DataModel", "DM\TalkBack.ContactControl.DataModel.csproj", "{E2A424BE-1435-40D9-87FB-A8ED1940316F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

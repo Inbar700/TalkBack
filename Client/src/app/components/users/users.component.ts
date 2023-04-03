@@ -21,9 +21,7 @@ import { Router } from '@angular/router';
 export class UsersComponent implements OnInit {
   private signalrConnectionUrl = 'https://localhost:7014/userHub';
   private addClientUrl = 'https://localhost:7014/Contacts/AddChatClient';
-  // private sendMessageToAllUrl = 'https://localhost:7014/Contacts/SendMessageToAll';
   private sendMessageToUserUrl = 'https://localhost:7014/Contacts/SendMessageToUser';
-
   private invitePlayerUrl='https://localhost:7014/Contacts/InvitePlayer';
 
   chatClientId = getClientId();
@@ -52,7 +50,6 @@ export class UsersComponent implements OnInit {
         firstValueFrom(
           this.http.post(
             this.addClientUrl,
-            //get user name from local storage
             buildNewChatClientConnectionModel(
               this.chatClientId,
               signalrHubConnectionId,
@@ -110,13 +107,10 @@ export class UsersComponent implements OnInit {
       this.sendToUser,
       this.fromUser
     );
-
     this.invitePlayerConfirmation();
   }
 
   invitePlayerConfirmation(): void{
-    console.log("ok button is working");
     this.router.navigateByUrl("/game");
      }
-
 }

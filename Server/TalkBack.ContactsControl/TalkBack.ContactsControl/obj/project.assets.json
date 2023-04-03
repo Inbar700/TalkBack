@@ -2002,28 +2002,28 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
-      "DM/1.0.0": {
+      "TalkBack.ContactControl.DataModel/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/DM.dll": {}
+          "bin/placeholder/TalkBack.ContactControl.DataModel.dll": {}
         },
         "runtime": {
-          "bin/placeholder/DM.dll": {}
+          "bin/placeholder/TalkBack.ContactControl.DataModel.dll": {}
         }
       },
       "TalkBack.ContactsControl.Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "DM": "1.0.0",
           "Microsoft.AspNet.WebApi.Client": "5.2.9",
           "Microsoft.AspNetCore.SignalR.Core": "1.1.0",
           "Microsoft.EntityFrameworkCore": "6.0.7",
           "Microsoft.EntityFrameworkCore.Relational": "6.0.7",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.7",
           "System.Net.Http": "4.3.4",
-          "System.Net.Http.Formatting.Extension": "5.2.3"
+          "System.Net.Http.Formatting.Extension": "5.2.3",
+          "TalkBack.ContactControl.DataModel": "1.0.0"
         },
         "compile": {
           "bin/placeholder/TalkBack.ContactsControl.Data.dll": {}
@@ -6857,10 +6857,10 @@
         "system.xml.xdocument.nuspec"
       ]
     },
-    "DM/1.0.0": {
+    "TalkBack.ContactControl.DataModel/1.0.0": {
       "type": "project",
-      "path": "../DM/DM.csproj",
-      "msbuildProject": "../DM/DM.csproj"
+      "path": "../DM/TalkBack.ContactControl.DataModel.csproj",
+      "msbuildProject": "../DM/TalkBack.ContactControl.DataModel.csproj"
     },
     "TalkBack.ContactsControl.Data/1.0.0": {
       "type": "project",
@@ -6967,7 +6967,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.114\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.115\\RuntimeIdentifierGraph.json"
       }
     }
   },
